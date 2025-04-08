@@ -1,6 +1,6 @@
 # Ednei Cunha Vicente | Cientista de Dados
 
-![Foto Profissional](/api/placeholder/200/200)
+
 
 ## 👨‍💻 Sobre Mim
 Sou um cientista de dados experiente e apaixonado, especializado em transformar dados complexos em insights acionáveis e soluções de alto impacto. Desde 2019, venho combinando análise estatística, algoritmos avançados de machine learning e conhecimento de negócios para resolver problemas desafiadores em diversos setores.
@@ -37,20 +37,6 @@ Sou um cientista de dados experiente e apaixonado, especializado em transformar 
 - 📊 **Big Data Analytics** - processamento e análise de grandes volumes de dados
 - ⚙️ **Automação de processos** analíticos
 
-## 💼 Portfólio e Projetos
-
-### 📈 Análise Preditiva de Vendas
-![Projeto 1](/api/placeholder/250/150)
-Modelo preditivo para otimização de vendas no varejo
-
-### 👥 Sistema de Recomendação
-![Projeto 2](/api/placeholder/250/150)
-Algoritmo colaborativo para recomendações personalizadas
-
-### 🔤 NLP para Análise de Sentimento
-![Projeto 3](/api/placeholder/250/150)
-Classificação de texto em redes sociais
-
 Meu repositório GitHub contém diversos projetos demonstrando minhas habilidades em:
 - 📊 Modelos preditivos para setores financeiros e de varejo
 - 📉 Análises exploratórias aprofundadas com visualizações interativas
@@ -60,7 +46,6 @@ Meu repositório GitHub contém diversos projetos demonstrando minhas habilidade
 
 ## 📌 Métricas e Resultados
 
-![Gráfico de Performance de Projetos](/api/placeholder/750/200)
 
 ## 📫 Contato e Redes
 
