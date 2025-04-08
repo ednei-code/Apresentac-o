@@ -51,7 +51,7 @@ Meu repositório GitHub contém diversos projetos demonstrando minhas habilidade
 
 ✉️ **Email:** ednei.adgpo@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/ednei-cunha-vicente-551b64187](https://www.linkedin.com/in/ednei-cunha-vicente-551b64187/)  
-🐙 **GitHub:** [github.com/edneicunhavicente](https://github.com/edneicunhavicente)  
+🐙 **GitHub:** [github.com/edneicunhavicente](https://github.com/ednei-code))  
 📸 **Instagram:** [instagram.com/edneicunhavicente](https://www.instagram.com/edneicunhavicente/)
 
 ## 🤝 Colaboração e Contribuições
