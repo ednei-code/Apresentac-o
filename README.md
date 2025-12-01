@@ -2,25 +2,16 @@
 
 
 
-## 👨‍💻 Sobre Mim
-Sou um cientista de dados experiente e apaixonado, especializado em transformar dados complexos em insights acionáveis e soluções de alto impacto. Desde 2019, venho combinando análise estatística, algoritmos avançados de machine learning e conhecimento de negócios para resolver problemas desafiadores em diversos setores.
+🌌 Cientista de Dados (Data Scientist)
+👨‍💻 Sobre Mim
+Sou Cientista de Dados e mergulho na Astrofísica por paixão. Utilizo técnicas avançadas de Ciência de Dados, Machine Learning e Deep Learning para desvendar o universo.
 
-## 🔧 Competências Técnicas
+Meu foco é transformar vastos datasets cósmicos em conhecimento através da Análise Exploratória, e do desenvolvimento de modelos de Previsão, Regressão e Classificação aplicados a fenômenos estelares e galácticos.
 
-### 📊 Análise e Ciência de Dados
-- **🐍 Python & R:** Desenvolvimento avançado em Python e análise estatística em R
-- **🤖 Machine Learning:** Modelagem preditiva, classificação, regressão, clustering, séries temporais
-- **🧠 Deep Learning:** Redes neurais com TensorFlow, PyTorch e MXNet, incluindo CNN, RNN e transformers
-- **📈 Análise Estatística:** Testes de hipóteses, modelagem bayesiana, inferência estatística, análise multivariada
-- **🔤 NLP:** Análise de sentimento, classificação de texto, extração de informações
+🐍 Minhas Ferramentas
+Minha principal ferramenta é o Python, junto com bibliotecas como Pandas, NumPy, Scikit-learn, TensorFlow e PyTorch.
 
-### 🛠️ Ferramentas e Tecnologias
-
-| 🐍 | 📊 | 🧠 | 🔥 | 💾 |
-|:---:|:---:|:---:|:---:|:---:|
-| Python | R | TensorFlow | PyTorch | SQL |
-| 📉 | 🐳 | ☁️ | ⚡ | 🔄 |
-| Tableau | Docker | AWS | Spark | Git |
+Aqui, você encontrará artigos e tutoriais que mostram como a tecnologia de dados está reescrevendo a história do cosmos.
 
 - **📚 Bibliotecas Python:** Scikit-learn, Pandas, NumPy, SciPy, Statsmodels, Keras
 - **📈 Visualização de Dados:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
@@ -52,7 +43,7 @@ Meu repositório GitHub contém diversos projetos demonstrando minhas habilidade
 ✉️ **Email:** ednei.adgpo@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/ednei-cunha-vicente-551b64187](https://www.linkedin.com/in/ednei-cunha-vicente-551b64187/)  
 🐙 **GitHub:** [github.com/edneicunhavicente](https://github.com/ednei-code))  
-📸 **Instagram:** [instagram.com/edneicunhavicente](https://www.instagram.com/edneicunhavicente/)
+🌌📊 **blog** [https://medium.com/@ednei_vicente]
 
 ## 🤝 Colaboração e Contribuições
 
