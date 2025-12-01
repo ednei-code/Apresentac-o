@@ -29,7 +29,7 @@ Aqui, você encontrará artigos e tutoriais que mostram como a tecnologia de dad
 - ⚙️ **Automação de processos** analíticos
 
 Meu repositório GitHub contém diversos projetos demonstrando minhas habilidades em:
-- 📊 Modelos preditivos para setores financeiros e de varejo
+- 📊 Modelos preditivos 
 - 📉 Análises exploratórias aprofundadas com visualizações interativas
 - 👥 Sistemas de recomendação baseados em comportamento do usuário
 - 🔤 Soluções de NLP para análise de sentimento e classificação de texto
